@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientWebHoaQua", "ClientWebHoaQua\ClientWebHoaQua.csproj", "{29B0C1FF-DF8E-4E4A-A92F-1C37E45489CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientWebDoGiaDung", "ClientWebDoGiaDung\ClientWebDoGiaDung.csproj", "{29B0C1FF-DF8E-4E4A-A92F-1C37E45489CA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "DataModel\DataModel.csproj", "{F61AB2C9-70BD-4154-9477-23DF7FCB845C}"
 EndProject
@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAcce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicLayer", "BusinessLogic\BusinessLogicLayer.csproj", "{69E4C95E-4DE0-4788-B634-F87A46FDD179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminWebHoaQua", "AdminWebHoaQua\AdminWebHoaQua.csproj", "{A7DB826E-DAD4-4931-BA3F-16C087526CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdminWebDoGiaDung", "AdminWebDoGiaDung\AdminWebDoGiaDung.csproj", "{A7DB826E-DAD4-4931-BA3F-16C087526CB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
